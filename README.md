@@ -4,7 +4,7 @@ L'obiettivo di questo progetto è sviluppare un modello di classificazione in gr
 
 Il dataset utilizzato è estratto da Kaggle ed è focalizzato su metriche demografiche, macroeconomiche e accademiche.
 
-Poiché l'esito per gli studenti attualmente iscritti ("Enrolled") è incerto, il l problema è stato formulato come un task di **classificazione binaria** escludendo questa categoria.
+Poiché l'esito per gli studenti attualmente iscritti ("Enrolled") è incerto, il problema è stato formulato come un task di **classificazione binaria** escludendo questa categoria.
 
 Il progetto segue un workflow strutturato in più fasi:
 
